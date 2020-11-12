@@ -103,13 +103,13 @@ function App() {
     // filters.push(`background-image: url(${params})`)
     
     setStyle({...style, filter: filters.join(' ') })
-    console.log(style)
+    // console.log(style)
   }
   
   function onSetImageHandler(url){
     
     setStyle({...style, backgroundImage: `url(${url})`})
-    console.log(style)
+    // console.log(style)
     
   }
 
