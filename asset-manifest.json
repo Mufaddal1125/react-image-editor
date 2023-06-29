@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-image-editor/static/css/main.4ba6ae7c.chunk.css",
+    "main.js": "/react-image-editor/static/js/main.0e13c830.chunk.js",
+    "main.js.map": "/react-image-editor/static/js/main.0e13c830.chunk.js.map",
+    "runtime-main.js": "/react-image-editor/static/js/runtime-main.6acadfc4.js",
+    "runtime-main.js.map": "/react-image-editor/static/js/runtime-main.6acadfc4.js.map",
+    "static/js/2.7dcfc8da.chunk.js": "/react-image-editor/static/js/2.7dcfc8da.chunk.js",
+    "static/js/2.7dcfc8da.chunk.js.map": "/react-image-editor/static/js/2.7dcfc8da.chunk.js.map",
+    "index.html": "/react-image-editor/index.html",
+    "static/css/main.4ba6ae7c.chunk.css.map": "/react-image-editor/static/css/main.4ba6ae7c.chunk.css.map",
+    "static/js/2.7dcfc8da.chunk.js.LICENSE.txt": "/react-image-editor/static/js/2.7dcfc8da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6acadfc4.js",
+    "static/js/2.7dcfc8da.chunk.js",
+    "static/css/main.4ba6ae7c.chunk.css",
+    "static/js/main.0e13c830.chunk.js"
+  ]
+}
